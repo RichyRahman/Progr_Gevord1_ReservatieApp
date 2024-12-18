@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ProgrGevord1_ReservatieApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d5a4fb0637e3cc6c3083db690ebcd9b48df8d816")]
 [assembly: System.Reflection.AssemblyProductAttribute("ProgrGevord1_ReservatieApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ProgrGevord1_ReservatieApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

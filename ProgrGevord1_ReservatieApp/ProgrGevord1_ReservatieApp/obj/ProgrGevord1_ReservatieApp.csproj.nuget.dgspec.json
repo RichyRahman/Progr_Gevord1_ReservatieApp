@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\richy_l0e0m\\source\\repos\\ProgrGevord1_ReservatieApp\\ProgrGevord1_ReservatieApp\\ProgrGevord1_ReservatieApp.csproj": {}
+    "C:\\Users\\rahma\\Source\\Repos\\Progr_Gevord1_ReservatieApp\\ProgrGevord1_ReservatieApp\\ProgrGevord1_ReservatieApp\\ProgrGevord1_ReservatieApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\richy_l0e0m\\source\\repos\\ProgrGevord1_ReservatieApp\\ProgrGevord1_ReservatieApp\\ProgrGevord1_ReservatieApp.csproj": {
+    "C:\\Users\\rahma\\Source\\Repos\\Progr_Gevord1_ReservatieApp\\ProgrGevord1_ReservatieApp\\ProgrGevord1_ReservatieApp\\ProgrGevord1_ReservatieApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\richy_l0e0m\\source\\repos\\ProgrGevord1_ReservatieApp\\ProgrGevord1_ReservatieApp\\ProgrGevord1_ReservatieApp.csproj",
+        "projectUniqueName": "C:\\Users\\rahma\\Source\\Repos\\Progr_Gevord1_ReservatieApp\\ProgrGevord1_ReservatieApp\\ProgrGevord1_ReservatieApp\\ProgrGevord1_ReservatieApp.csproj",
         "projectName": "ProgrGevord1_ReservatieApp",
-        "projectPath": "C:\\Users\\richy_l0e0m\\source\\repos\\ProgrGevord1_ReservatieApp\\ProgrGevord1_ReservatieApp\\ProgrGevord1_ReservatieApp.csproj",
-        "packagesPath": "C:\\Users\\richy_l0e0m\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\richy_l0e0m\\source\\repos\\ProgrGevord1_ReservatieApp\\ProgrGevord1_ReservatieApp\\obj\\",
+        "projectPath": "C:\\Users\\rahma\\Source\\Repos\\Progr_Gevord1_ReservatieApp\\ProgrGevord1_ReservatieApp\\ProgrGevord1_ReservatieApp\\ProgrGevord1_ReservatieApp.csproj",
+        "packagesPath": "C:\\Users\\rahma\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\rahma\\Source\\Repos\\Progr_Gevord1_ReservatieApp\\ProgrGevord1_ReservatieApp\\ProgrGevord1_ReservatieApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\richy_l0e0m\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\rahma\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -49,6 +49,12 @@
       "frameworks": {
         "net8.0-windows7.0": {
           "targetAlias": "net8.0-windows",
+          "dependencies": {
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[5.2.2, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
